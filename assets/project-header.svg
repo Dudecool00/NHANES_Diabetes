@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">NHANES Diabetes Analysis</title>
+  <desc id="desc">A portfolio project in R using 2015-2018 public survey data, logistic regression, and inverse probability weighting.</desc>
+  <rect width="1200" height="270" rx="20" fill="#102b3b"/>
+  <path d="M880 0v270M960 0v270M1040 0v270M1120 0v270M800 60h400M800 140h400M800 220h400" stroke="#214455" stroke-width="1"/>
+  <circle cx="1080" cy="82" r="57" fill="#193f50"/>
+  <circle cx="1050" cy="172" r="38" fill="#1a5960"/>
+  <circle cx="1140" cy="170" r="20" fill="#62cbb6"/>
+  <rect x="48" y="39" width="142" height="28" rx="14" fill="#21525b"/>
+  <text x="66" y="58" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#a1eee0">R · PUBLIC DATA</text>
+  <text x="48" y="124" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">NHANES Diabetes Analysis</text>
+  <text x="48" y="163" font-family="Arial, sans-serif" font-size="21" fill="#c4d8df">Survey-weighted prediction and diagnosis analysis</text>
+  <text x="48" y="217" font-family="Arial, sans-serif" font-size="16" fill="#83dbc7">2015–2018</text>
+  <text x="174" y="217" font-family="Arial, sans-serif" font-size="16" fill="#b3cbd3">Logistic regression</text>
+  <text x="367" y="217" font-family="Arial, sans-serif" font-size="16" fill="#b3cbd3">Inverse probability weighting</text>
+</svg>

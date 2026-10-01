@@ -1,0 +1,13 @@
+# Public source files and derived participant data are rebuilt locally.
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
+results/generated/*
+!results/generated/README.md
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
